@@ -1,0 +1,4 @@
+jxn_id,road1_seg,road2_seg,traffic_ctrl,geometry
+J1,S1,S4,signal,4-leg
+J2,S2,S3,stop,3-leg
+J3,S3,S5,none,4-leg

@@ -1,0 +1,8 @@
+crash_id,seg_id,junction_id,severity,crash_year
+C1,S1,J1,2,2024
+C2,S1,J1,3,2024
+C3,S2,J2,1,2024
+C4,S3,J2,2,2024
+C5,S3,J3,2,2024
+C6,S4,J1,1,2024
+C7,S5,J3,3,2024

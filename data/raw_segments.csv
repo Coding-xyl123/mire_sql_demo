@@ -1,0 +1,6 @@
+segment,route_name,AADT,aadt_year,func_class,rural_urban,lanes,surface,ownership
+S1,Main St,12000,2024,3,urban,2,asphalt,city
+S2,Highway 8,25000,2024,2,suburban,4,concrete,state
+S3,County Rd 5,7000,2024,6,rural,2,asphalt,county
+S4,1st Ave,15000,2024,4,urban,,asphalt,city
+S5,Rural Route 2,5000,2024,6,rural,2,gravel,county
