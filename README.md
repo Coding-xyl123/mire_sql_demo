@@ -99,3 +99,9 @@ Insight:
 - larger dataset for more realistic performance testing
 - additional roadway features (e.g., intersections, traffic control)
 - more advanced safety metrics
+
+## Core Insight
+
+The primary challenge in real-world data systems is not analysis itself, but ensuring that data is consistent, reliable, and usable across different sources and over time.
+
+Without this foundation, analysis and decision-making become unreliable.
